@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Osei</h1>
-<h3 align="center">A passionate Backend developer from Ghana</h3>
+<h3 align="center">A passionate Backend developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/henryosei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="henryosei" height="30" width="40" /></a>
